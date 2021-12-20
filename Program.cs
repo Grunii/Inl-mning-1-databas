@@ -86,10 +86,6 @@ namespace DB3
 
                 //klassens favorit Max 
 
-             
-
-
-
                 var dictionary = new Dictionary<string, int>();
 
                     foreach (var person in personer.FindAll())
@@ -104,21 +100,23 @@ namespace DB3
                         }
 
                     }
-
+                   Console.WriteLine("Vilken max är populärast?");
                     foreach (KeyValuePair<string, int> entry in dictionary)
                     {
                         Console.WriteLine(entry.Key + " : " + entry.Value);
 
 
                     }
-                    Console.WriteLine("Flest röster var: " + dictionary.Values.Max());
+                    
+                var max = dictionary.Aggregate((x, y) => x.Value > y.Value ? x : y).Key;
+                Console.WriteLine("klassens favorit max var: " + max);
 
 
-                    //int[] numbers = { mats, Max1, Max2, Max3 };
-                    //int biggestNumber = numbers.Max();
-                    //Console.WriteLine(biggestNumber);
+                //int[] numbers = { mats, Max1, Max2, Max3 };
+                //int biggestNumber = numbers.Max();
+                //Console.WriteLine(biggestNumber);
 
-                    {
+                {
 
                     }
                 }
