@@ -1,0 +1,17 @@
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\övningar databas lektion2.exe
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\övningar databas lektion2.deps.json
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\övningar databas lektion2.runtimeconfig.json
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\övningar databas lektion2.runtimeconfig.dev.json
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\övningar databas lektion2.dll
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\övningar databas lektion2.pdb
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.csproj.AssemblyReference.cache
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.AssemblyInfoInputs.cache
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.AssemblyInfo.cs
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.csproj.CoreCompileInputs.cache
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.csproj.CopyComplete
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.dll
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.pdb
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\obj\Debug\netcoreapp3.1\övningar databas lektion2.genruntimeconfig.cache
+C:\Users\karle\source\repos\övningar databas lektion2\övningar databas lektion2\bin\Debug\netcoreapp3.1\LiteDB.dll
